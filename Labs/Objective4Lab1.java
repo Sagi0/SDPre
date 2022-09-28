@@ -33,10 +33,5 @@ public class Objective4Lab1 {
     keyboard.close();
 
 
-    keyboard.close();
-
-
-
-
   }
 }
